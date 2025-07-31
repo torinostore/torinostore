@@ -1,12 +1,12 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCNl1eLCccchmMvUNf29EtTUbMn_FO_nuU",
-    authDomain: "data-4e1c7.firebaseapp.com",
-    projectId: "data-4e1c7",
-    storageBucket: "data-4e1c7.firebasestorage.app",
-    messagingSenderId: "844230746094",
-    appId: "1:844230746094:web:7834ae9aaf29eccc3d38ff",
-    measurementId: "G-L4ZQ1CL7T8"
+  apiKey: "AIzaSyBsMEOkXDoIh_JSXLLF1K8udrjOZ7QU078",
+  authDomain: "torino-store.firebaseapp.com",
+  projectId: "torino-store",
+  storageBucket: "torino-store.firebasestorage.app",
+  messagingSenderId: "339157417123",
+  appId: "1:339157417123:web:e88413998673f25e2bd316",
+  measurementId: "G-NXZL1RQ6Y4"
 };
 
 // Initialize Firebase
