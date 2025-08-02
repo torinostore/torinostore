@@ -1176,7 +1176,7 @@ function displayCartItems() {
             <img src="${item.image}" alt="${escapeHtml(item.name)}" class="w-16 h-16 object-cover rounded-lg">
             <div class="flex-1">
                 <h4 class="font-semibold text-elite-900 dark:text-white">${escapeHtml(item.name)}</h4>
-                <p class="text-sm text-elite-600 dark:text-elite-400">#${item.uniqueCode || 'N/A'}</p>
+                
                 <p class="text-lg font-bold text-gradient">₹${formatPrice(item.price)}</p>
             </div>
             <div class="flex items-center space-x-2">
